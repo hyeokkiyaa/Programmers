@@ -1,0 +1,13 @@
+
+r backup and temporary files
+# ---------------------------------
+
+# Files ending with a tilde (~)
+*~
+
+# Files ending with .un~
+*.un~
+
+# Swap files created by Vim
+*.swp
+*.swo
