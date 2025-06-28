@@ -1,5 +1,6 @@
-)))s
-n](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+# 🚀 Programmers | 코딩 테스트 문제 풀이
+
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 
 안녕하세요! Programmers 코딩 테스트 문제들을 Python으로 풀이하고 정리하는 개인 저장소입니다. 꾸준한 문제 풀이를 통해 알고리즘 해결 능력을 향상시키는 것을 목표로 합니다.
 
