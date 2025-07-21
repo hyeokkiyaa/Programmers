@@ -4,4 +4,4 @@ def solution(a, b, n):
         new = (n//a) *b
         answer += new
         n = (n%a) + new
-    return answer
+return answer
